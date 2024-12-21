@@ -1,0 +1,8 @@
+'Sysway Technologies runs more than 20 years.',
+        'Offers programming courses and Cloud Computing courses.',
+        'CAD courses also Available.',
+        'Basic and DFM courses available.',
+        'We are taken spoken english also.',
+
+
+'<audio src=\"Replace your object URL\"/>',
